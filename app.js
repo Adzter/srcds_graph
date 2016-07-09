@@ -3,7 +3,7 @@ var Gamedig = require('gamedig');
 var schedule = require('node-schedule');
 var config = require('./config.json');
 
-var j = schedule.scheduleJob('*/1 * * * *', function() {
+var j = schedule.scheduleJob('*/5 * * * *', function() {
 
 	Gamedig.query(
 	    {
