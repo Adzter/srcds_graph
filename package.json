@@ -1,0 +1,12 @@
+{
+	"name": "srcds_graph",
+	"version": "1.0.0",
+	"description": "Monitors and saves server status to MySQL database generating a graph, requires: sudo apt-get install gnuplot ghostscript",
+	"author": "Adam Wilson (https://adam-wilson.me)",
+	"dependencies": {
+  		"mysql": "2.10.2",
+  		"gamedig": "0.2.24",
+  		"plotter": "0.5.0",
+  		"node-schedule": "1.1.0"
+	}
+}

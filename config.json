@@ -1,0 +1,11 @@
+{
+	"ip" : "31.186.250.77",
+	"type" : "csgo",
+
+	"mysql_host" : "localhost",
+	"mysql_user" : "username",
+	"mysql_pass" : "password",
+	"mysql_db"   : "servers",
+
+	"save_location" : "/var/www/"
+}
