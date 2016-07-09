@@ -2,7 +2,6 @@
 
 A node.js app to generate graphs based on the player count of source based games.
 
-Example:
 ![Graph Example](https://i.imgur.com/xGji14M.png)
 
 ## Requirements
